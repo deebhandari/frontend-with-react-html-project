@@ -1,0 +1,11 @@
+h1 {
+  /* here, h1 is a selector and {} is used to combine multiple
+      css declarations for any selector.
+      */
+  color: green;
+  /* here, color is a property and "green" is a value */
+  font-size: 56px;
+  /* Each pair is separated by ";" */
+}
+
+/* This is external css */
