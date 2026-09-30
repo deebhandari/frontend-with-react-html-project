@@ -1,0 +1,33 @@
+body{
+  font-family: 'Courier New', Courier, monospace;
+}
+
+header{
+  background-color: lightcyan;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  color: white;
+}
+footer{
+  background-color: black;
+  padding: 30px 7%;
+  display: flex;
+  justify-content: space-between;
+  color: white;
+}
+
+footer a{
+  color: white;
+}
+a{
+  text-decoration: none;
+}
+
+ul{
+  list-style: none;
+}
+nav{
+ display :flex;
+ padding : 0.75;
+}
