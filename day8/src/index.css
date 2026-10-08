@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+input,
+textarea {
+  @apply border w-full block px-5 py-3 my-2;
+}
+
+button {
+  @apply bg-green-600 text-white px-5 py-3 rounded-2xl;
+}

@@ -1,5 +1,5 @@
 function Header(){
-    return <header>
+    return <header className="flex justify-between bg-yellow-400 px-10 py-5">
         <h3>Logo</h3>
 
         <nav>
